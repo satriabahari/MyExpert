@@ -1,2 +1,1 @@
-[![satriabahari](https://circleci.com/github/satriabahari/MyExpert.svg?style=svg)](https://circleci.com/github/satriabahari/MyExpert)
-[![arifaizin](https://circleci.com/gh/satriabahari/MyExpert.svg?style=svg)](https://circleci.com/gh/satriabahari/MyExpert)
+[![satriabahari](https://app.circleci.com/pipelines/github/satriabahari/MyExpert.svg?style=svg)](https://app.circleci.com/pipelines/github/satriabahari/MyExpert)
