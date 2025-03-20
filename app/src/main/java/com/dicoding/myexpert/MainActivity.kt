@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
         if (drawerLayout.isDrawerOpen(GravityCompat.START)) {
             drawerLayout.closeDrawer(GravityCompat.START)
         } else {
-            super.onBackPressedDispatcher.onBackPressed()
+            super.onBackPressed()
         }
     }
 }
